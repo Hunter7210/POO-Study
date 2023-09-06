@@ -14,5 +14,8 @@ public class ExecicioBorderLayout extends JFrame {
         JPanel painel2 = new JPanel(new GridLayout());
 
         painel.add(painel2);
+
+
+        
     }
 }
